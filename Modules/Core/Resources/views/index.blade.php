@@ -42,59 +42,7 @@
                 </div>
                 <!-- /.box -->
             </div>
-            <!--phan loai khach hang-->
-            <div class="col-md-12">
-                <div class="box box-solid">
-                    <div class="box-header with-border">
-                        <h3 class="box-title">Biểu đồ</h3>
-
-                        <div class="box-tools pull-right">
-                        </div>
-                    </div>
-                    <!-- /.box-header -->
-                    <div class="box-body">
-                        <div class="row chart_info">
-
-                            <div class="col-md-6">
-                                <div style="border: #e6e6e6 1px solid; height: 100%">
-                                    <p class="text-center" style="background: #92D050; height: 40px; line-height: 40px; color: #fff; margin-bottom: 0px">
-                                        <strong>Bản tin eroscare</strong>
-                                    </p>
-                                    <div class="clearfix"></div>
-
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div style="border: #e6e6e6 1px solid; height: 100%">
-                                    <p class="text-center" style="background: #92D050; height: 40px; line-height: 40px; color: #fff; margin-bottom: 0px">
-                                        <strong>Theo loại hình bảo hiểm</strong>
-                                    </p>
-                                    <div class="clearfix"></div>
-                                    <div class="progress-group" style="padding: 1px 8px">
-                                        <canvas id="contract_type" style="height:300px;width:100%;"></canvas>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div style="border: #e6e6e6 1px solid; height: 100%">
-                                    <p class="text-center" style="background: #92D050; height: 40px; line-height: 40px; color: #fff; margin-bottom: 0px">
-                                        <strong>Nguồn khách hàng</strong>
-                                    </p>
-                                    <div class="clearfix"></div>
-                                    <div class="progress-group" style="padding: 1px 8px">
-                                        <canvas id="customer_source" style="height:300px;width:100%;"></canvas>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <!-- /.row -->
-                    </div>
-                    <!-- ./box-body -->
-                <!-- /.box-footer -->
-                </div>
-                <!-- /.box -->
-            </div>
+           
             <!--số hợp đồng chưa thanh toán-->
         </div>
 
